@@ -1,47 +1,50 @@
-
-body {
-	font: 16px Helvetica, Sans-Serif;
-	background: url(noise.png);
-}
-
 #container {
-    margin-top: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
-  
-    padding: 10px 150px 10px 150px;
-  
-    border-radius: 15px;
-    background-color: C4CECD;
-  
-    text-align: left;
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: #C4CECD;
+
+	text-align: left;
 }
 
 #content-professional {
-    font-size: 42px;
+	font-size: 42px;
 }
 
-h1 {font-family: Palatino, 'Palatino Linotype', serif;
-    font-size: 64px;
-    margin-bottom: -25px;
-    color:red
+h1 {{font-family: Palatino, 'Palatino Linotype', serif;
+	font-size: 64px;
+	margin-bottom: -25px;
 }
 
 h2 {
-    font-size: 10px;
-    margin-bottom: -6px;
+	font-size: 18px;
+	margin-bottom: -6px;
 }
 
 h3 {
-    fontsize: 26px;
-    margin-bottom: -10px;
+	font-size: 26px;
+	margin-bottom: -10px;
 }
 
 h4 {
-    fontsize: 22px;
-    margin-bottom: -10px;
+	font-size: 22px;
+	margin-bottom: -10px;
 }
-p {
-  color: black;
-  }
-body { background-image:url('dreamcodes/bg_images/light/l13.png'); }
+
+li {
+	font-size: 18px;
+	text-align: left;
+}
+
+#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #C4CECD;
+
+	border-radius: 15px;
+	height: 100px;
+}
