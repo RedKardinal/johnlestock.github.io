@@ -3,7 +3,7 @@
     margin-left: 200px;
     margin-right: 200px;
   
-    padding: 10px 150px 10px 150px;
+    padding: 10px 100px 10px 100px;
   
     border-radius: 15px;
     background-color: C4CECD;
@@ -15,7 +15,7 @@
     font-size: 42px;
 }
 
-h1 {
+h1 {font-family: Palatino, 'Palatino Linotype', serif;
     font-size: 64px;
     margin-bottom: -25px;
 }
