@@ -1,5 +1,9 @@
-body { background: url(noise.png);
+
+body {
+	font: 16px Helvetica, Sans-Serif;
+	background: url(noise.png);
 }
+
 #container {
     margin-top: 20px;
     margin-left: 200px;
