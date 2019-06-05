@@ -11,6 +11,8 @@
 	text-align: left;
 }
 
+body { background-image:url('dreamcodes/bg_images/light/l12.png'); }
+
 #content-professional {
 	font-size: 42px;
 }
