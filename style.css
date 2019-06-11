@@ -3,17 +3,27 @@ body {
 }
 
 h1 {
+  font-size: 32px;
+  color: red;
 }
 
 h2 {
+  font-size: 24px;
+  color: red;
 }
 
 h3 {
+  font-size: 24px;
+  color: red;
 }
 
 h4 {
+  font-size: 18p;
+  color: green;
 }
 
 p {
   color: red;
 }
+
+#
