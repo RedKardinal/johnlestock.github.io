@@ -26,4 +26,7 @@ p {
   color: red;
 }
 
-#
+#skills {
+  display: flex;
+  flex-wrap: wrap;
+}
