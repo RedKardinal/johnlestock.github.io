@@ -4,13 +4,13 @@ body {
 
 h1 {
   font-size: 32px;
-  color: red;
-  line-height: 0.7;
+  color: black;
 }
 
 h2 {
   font-size: 24px;
   color: black;	
+  line-height: 40;
 }
 
 h3 {
